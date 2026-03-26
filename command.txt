@@ -1,0 +1,4 @@
+e:
+cd E:\Courses\Cybermechatronics\hermitsavidya.github.io\textbook
+mkdocs build
+mkdocs gh-deploy
